@@ -1,0 +1,6 @@
+---
+
+# Install
+- import_tasks: install.yml
+  tags:
+    - manala_yarn
